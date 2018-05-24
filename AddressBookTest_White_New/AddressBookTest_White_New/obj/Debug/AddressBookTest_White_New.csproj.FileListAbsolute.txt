@@ -1,0 +1,12 @@
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\AddressBookTest_White_New.dll
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\AddressBookTest_White_New.pdb
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\Castle.Core.dll
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\nunit.framework.dll
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\TestStack.White.dll
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\Castle.Core.xml
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\nunit.framework.xml
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\TestStack.White.pdb
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\bin\Debug\TestStack.White.xml
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\obj\Debug\AddressBookTest_White_New.csprojResolveAssemblyReference.cache
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\obj\Debug\AddressBookTest_White_New.dll
+D:\Project\C#_Cources\projects\AddressBookTest_White_New\AddressBookTest_White_New\obj\Debug\AddressBookTest_White_New.pdb
